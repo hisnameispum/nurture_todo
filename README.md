@@ -1,5 +1,5 @@
 # NURTURE TODO
-### Project descsctiption
+### Project description
 NUTURE TODO is a todo list web application which keep track of your todos.
 ### Tech stack
 React JS  

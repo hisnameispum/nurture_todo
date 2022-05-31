@@ -5,6 +5,7 @@ NUTURE TODO is a todo list web application which keep track of your todos.
 React JS  
 Express JS  
 Node JS  
-MongoDB  
+MongoDB
+Heroku
 ### Features
 Todo list
